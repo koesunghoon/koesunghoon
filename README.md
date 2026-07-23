@@ -20,7 +20,7 @@
 
 - **[SmartFarm](https://github.com/koesunghoon/SmartFarm)** — Arduino → ESP-01 → Raspberry Pi → HC-06 → STM32(FreeRTOS) 구조의 IoT 스마트팜 시스템
 - **[Weight-based-automatic-classification-system](https://github.com/koesunghoon/Weight-based-automatic-classification-system)** — STM32 + FreeRTOS 기반 무게 감지 자동 분류 시스템
-- **[Studyroom_monitoring_system](https://github.com/koesunghoon/Studyroom_monitoring_system)** — 스터디룸 모니터링 시스템
+
 
 ## 🛠 기술 스택
 
@@ -30,21 +30,14 @@
 ![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-000000?style=flat-square)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 
-**Robotics / Vision**
-![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/-YOLO-111F68?style=flat-square)
-
 **Languages / Tools**
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ## 📊 GitHub Stats
 
 ![Koe's GitHub stats](https://github-readme-stats.vercel.app/api?username=koesunghoon&show_icons=true&theme=default)
 
----
-📻 前 아마추어무선(HAM) 동아리 회장 | 🎓 학생 복지 담당(학생회)
+
