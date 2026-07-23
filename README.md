@@ -36,8 +36,4 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-## 📊 GitHub Stats
-
-![Koe's GitHub stats](https://github-readme-stats.vercel.app/api?username=koesunghoon&show_icons=true&theme=default)
-
 
