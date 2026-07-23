@@ -12,6 +12,7 @@
 
 📫 **Contact**
 [![Email](https://img.shields.io/badge/-shk789789%40naver.com-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:shk789789@naver.com)
+
 **Notion Page**
 [![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://app.notion.com/p/0343ee7369658271a6438126e5ab7171?source=copy_link)
 
